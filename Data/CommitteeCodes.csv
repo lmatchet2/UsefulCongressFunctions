@@ -1,0 +1,199 @@
+body,name,thomas_id,CommitteeCode
+House,Committee on Agriculture,HSAG,102
+House,Committee on Agriculture,HSAG,102
+House,Committee on Agriculture,HSAG,102
+House,Committee on Agriculture,HSAG,102
+House,Committee on Agriculture,HSAG,102
+House,Committee on Agriculture,HSAG,102
+House,Committee on Appropriations,HSAP,104
+House,Committee on Appropriations,HSAP,104
+House,Committee on Appropriations,HSAP,104
+House,Committee on Appropriations,HSAP,104
+House,Committee on Appropriations,HSAP,104
+House,Committee on Appropriations,HSAP,104
+House,Committee on Appropriations,HSAP,104
+House,Committee on Appropriations,HSAP,104
+House,Committee on Appropriations,HSAP,104
+House,Committee on Appropriations,HSAP,104
+House,Committee on Appropriations,HSAP,104
+House,Committee on Appropriations,HSAP,104
+House,Committee on Armed Services,HSAS,106
+House,Committee on Armed Services,HSAS,106
+House,Committee on Armed Services,HSAS,106
+House,Committee on Armed Services,HSAS,106
+House,Committee on Armed Services,HSAS,106
+House,Committee on Armed Services,HSAS,106
+House,Committee on Armed Services,HSAS,106
+House,Committee on Financial Services,HSBA,113
+House,Committee on Financial Services,HSBA,113
+House,Committee on Financial Services,HSBA,113
+House,Committee on Financial Services,HSBA,113
+House,Committee on Financial Services,HSBA,113
+House,Committee on the Budget,HSBU,115
+House,Committee on Education and the Workforce,HSED,124
+House,Committee on Education and the Workforce,HSED,124
+House,Committee on Education and the Workforce,HSED,124
+House,Committee on Education and the Workforce,HSED,124
+House,Committee on Foreign Affairs,HSFA,134
+House,Committee on Foreign Affairs,HSFA,134
+House,Committee on Foreign Affairs,HSFA,134
+House,Committee on Foreign Affairs,HSFA,134
+House,Committee on Foreign Affairs,HSFA,134
+House,Committee on Foreign Affairs,HSFA,134
+House,Committee on Oversight and Government Reform,HSGO,138
+House,Committee on Oversight and Government Reform,HSGO,138
+House,Committee on Oversight and Government Reform,HSGO,138
+House,Committee on Oversight and Government Reform,HSGO,138
+House,Committee on Oversight and Government Reform,HSGO,138
+House,Committee on Oversight and Government Reform,HSGO,138
+House,Committee on House Administration,HSHA,142
+House,Committee on Homeland Security,HSHM,251
+House,Committee on Homeland Security,HSHM,251
+House,Committee on Homeland Security,HSHM,251
+House,Committee on Homeland Security,HSHM,251
+House,Committee on Homeland Security,HSHM,251
+House,Committee on Homeland Security,HSHM,251
+House,Committee on Energy and Commerce,HSIF,128
+House,Committee on Energy and Commerce,HSIF,128
+House,Committee on Energy and Commerce,HSIF,128
+House,Committee on Energy and Commerce,HSIF,128
+House,Committee on Energy and Commerce,HSIF,128
+House,Committee on Energy and Commerce,HSIF,128
+House,Committee on Natural Resources,HSII,164
+House,Committee on Natural Resources,HSII,164
+House,Committee on Natural Resources,HSII,164
+House,Committee on Natural Resources,HSII,164
+House,Committee on Natural Resources,HSII,164
+House,Committee on Natural Resources,HSII,164
+House,Permanent Select Committee on Intelligence,HLIG,242
+House,Permanent Select Committee on Intelligence,HLIG,242
+House,Permanent Select Committee on Intelligence,HLIG,242
+House,Permanent Select Committee on Intelligence,HLIG,242
+House,Permanent Select Committee on Intelligence,HLIG,242
+House,Permanent Select Committee on Intelligence,HLIG,242
+House,Permanent Select Committee on Intelligence,HLIG,242
+House,Committee on the Judiciary,HSJU,156
+House,Committee on the Judiciary,HSJU,156
+House,Committee on the Judiciary,HSJU,156
+House,Committee on the Judiciary,HSJU,156
+House,Committee on the Judiciary,HSJU,156
+House,Committee on Transportation and Infrastructure,HSPW,173
+House,Committee on Transportation and Infrastructure,HSPW,173
+House,Committee on Transportation and Infrastructure,HSPW,173
+House,Committee on Transportation and Infrastructure,HSPW,173
+House,Committee on Transportation and Infrastructure,HSPW,173
+House,Committee on Transportation and Infrastructure,HSPW,173
+House,Committee on Rules,HSRU,176
+House,Committee on Rules,HSRU,176
+House,Committee on Small Business,HSSM,184
+House,Committee on Small Business,HSSM,184
+House,Committee on Small Business,HSSM,184
+House,Committee on Small Business,HSSM,184
+House,Committee on Small Business,HSSM,184
+House,Committee on Ethics,HSSO,
+House,"Committee on Science, Space, and Technology",HSSY,182
+House,"Committee on Science, Space, and Technology",HSSY,182
+House,"Committee on Science, Space, and Technology",HSSY,182
+House,"Committee on Science, Space, and Technology",HSSY,182
+House,"Committee on Science, Space, and Technology",HSSY,182
+House,Select Committee on the Events Surrounding the 2012 Terrorist Attack in Benghazi,HLZI,254
+House,Committee on Veterans' Affairs,HSVR,192
+House,Committee on Veterans' Affairs,HSVR,192
+House,Committee on Veterans' Affairs,HSVR,192
+House,Committee on Veterans' Affairs,HSVR,192
+House,Committee on Ways and Means,HSWM,196
+House,Committee on Ways and Means,HSWM,196
+House,Committee on Ways and Means,HSWM,196
+House,Committee on Ways and Means,HSWM,196
+House,Committee on Ways and Means,HSWM,196
+House,Committee on Ways and Means,HSWM,196
+Joint,Commission on Security and Cooperation in Europe,JCSE,JCSE
+Joint,Economic Committee,JSEC,507
+Joint,Committee on the Library,JSLC,500
+Joint,Committee on Printing,JSPR,501
+Joint,Committee on Taxation,JSTX,503
+Joint,United States Senate Caucus on International Narcotics Control,SCNC,SCNC
+Senate,Select Committee on Ethics,SLET,434
+Senate,Committee on Indian Affairs,SLIA,435
+Senate,Select Committee on Intelligence,SLIN,432
+Senate,Special Committee on Aging,SPAG,419
+Senate,"Committee on Agriculture, Nutrition, and Forestry",SSAF,305
+Senate,"Committee on Agriculture, Nutrition, and Forestry",SSAF,305
+Senate,"Committee on Agriculture, Nutrition, and Forestry",SSAF,305
+Senate,"Committee on Agriculture, Nutrition, and Forestry",SSAF,305
+Senate,"Committee on Agriculture, Nutrition, and Forestry",SSAF,305
+Senate,Committee on Appropriations,SSAP,306
+Senate,Committee on Appropriations,SSAP,306
+Senate,Committee on Appropriations,SSAP,306
+Senate,Committee on Appropriations,SSAP,306
+Senate,Committee on Appropriations,SSAP,306
+Senate,Committee on Appropriations,SSAP,306
+Senate,Committee on Appropriations,SSAP,306
+Senate,Committee on Appropriations,SSAP,306
+Senate,Committee on Appropriations,SSAP,306
+Senate,Committee on Appropriations,SSAP,306
+Senate,Committee on Appropriations,SSAP,306
+Senate,Committee on Appropriations,SSAP,306
+Senate,Committee on Armed Services,SSAS,308
+Senate,Committee on Armed Services,SSAS,308
+Senate,Committee on Armed Services,SSAS,308
+Senate,Committee on Armed Services,SSAS,308
+Senate,Committee on Armed Services,SSAS,308
+Senate,Committee on Armed Services,SSAS,308
+Senate,"Committee on Banking, Housing, and Urban Affairs",SSBK,314
+Senate,"Committee on Banking, Housing, and Urban Affairs",SSBK,314
+Senate,"Committee on Banking, Housing, and Urban Affairs",SSBK,314
+Senate,"Committee on Banking, Housing, and Urban Affairs",SSBK,314
+Senate,"Committee on Banking, Housing, and Urban Affairs",SSBK,314
+Senate,Committee on the Budget,SSBU,316
+Senate,"Committee on Commerce, Science, and Transportation",SSCM,321
+Senate,"Committee on Commerce, Science, and Transportation",SSCM,321
+Senate,"Committee on Commerce, Science, and Transportation",SSCM,321
+Senate,"Committee on Commerce, Science, and Transportation",SSCM,321
+Senate,"Committee on Commerce, Science, and Transportation",SSCM,321
+Senate,"Committee on Commerce, Science, and Transportation",SSCM,321
+Senate,"Committee on Commerce, Science, and Transportation",SSCM,321
+Senate,Committee on Energy and Natural Resources,SSEG,330
+Senate,Committee on Energy and Natural Resources,SSEG,330
+Senate,Committee on Energy and Natural Resources,SSEG,330
+Senate,Committee on Energy and Natural Resources,SSEG,330
+Senate,Committee on Environment and Public Works,SSEV,332
+Senate,Committee on Environment and Public Works,SSEV,332
+Senate,Committee on Environment and Public Works,SSEV,332
+Senate,Committee on Environment and Public Works,SSEV,332
+Senate,Committee on Environment and Public Works,SSEV,332
+Senate,Committee on Environment and Public Works,SSEV,332
+Senate,Committee on Finance,SSFI,336
+Senate,Committee on Finance,SSFI,336
+Senate,Committee on Finance,SSFI,336
+Senate,Committee on Finance,SSFI,336
+Senate,Committee on Finance,SSFI,336
+Senate,Committee on Finance,SSFI,336
+Senate,Committee on Foreign Relations,SSFR,338
+Senate,Committee on Foreign Relations,SSFR,338
+Senate,Committee on Foreign Relations,SSFR,338
+Senate,Committee on Foreign Relations,SSFR,338
+Senate,Committee on Foreign Relations,SSFR,338
+Senate,Committee on Foreign Relations,SSFR,338
+Senate,Committee on Foreign Relations,SSFR,338
+Senate,Committee on Foreign Relations,SSFR,338
+Senate,Committee on Foreign Relations,SSFR,338
+Senate,Committee on Homeland Security and Governmental Affairs,SSGA,344
+Senate,Committee on Homeland Security and Governmental Affairs,SSGA,344
+Senate,Committee on Homeland Security and Governmental Affairs,SSGA,344
+Senate,Committee on Homeland Security and Governmental Affairs,SSGA,344
+Senate,Committee on Homeland Security and Governmental Affairs,SSGA,344
+Senate,Committee on Homeland Security and Governmental Affairs,SSGA,344
+Senate,"Committee on Health, Education, Labor, and Pensions",SSHR,362
+Senate,"Committee on Health, Education, Labor, and Pensions",SSHR,362
+Senate,"Committee on Health, Education, Labor, and Pensions",SSHR,362
+Senate,Committee on the Judiciary,SSJU,358
+Senate,Committee on the Judiciary,SSJU,358
+Senate,Committee on the Judiciary,SSJU,358
+Senate,Committee on the Judiciary,SSJU,358
+Senate,Committee on the Judiciary,SSJU,358
+Senate,Committee on the Judiciary,SSJU,358
+Senate,Committee on the Judiciary,SSJU,358
+Senate,Committee on Rules and Administration,SSRA,380
+Senate,Committee on Small Business and Entrepreneurship,SSSB,384
+Senate,Committee on Veterans' Affairs,SSVA,388
