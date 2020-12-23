@@ -9,7 +9,9 @@ Code
 
 Data
 - All Members and Committees: Poole and Rosenthal's member database from the 103 Congress on, with committee codes merged in.
-- Committee Converstions: Thomas IDs to Charles stewards IDs
+- Committee Conversions: Thomas IDs to Charles stewards IDs
+- Congress-year.csv: Congress number - calendar year conversions
+
 
 On the docket to add:
 
