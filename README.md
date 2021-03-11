@@ -11,6 +11,7 @@ Data
 - All Members and Committees: Poole and Rosenthal's member database from the 103 Congress on, with committee codes merged in.
 - Committee Conversions: Thomas IDs to Charles stewards IDs
 - Congress-year.csv: Congress number - calendar year conversions
+- Veterans in the post 1-4th Congress. Indicator variables showing which members are veterans and which are not.
 
 
 On the docket to add:
